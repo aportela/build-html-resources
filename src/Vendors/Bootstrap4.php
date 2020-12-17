@@ -2,7 +2,7 @@
 
     namespace aportela\BuildHTMLResources\Vendors;
 
-    class Bootstrap extends BaseVendor
+    class Bootstrap4 extends BaseVendor
     {
         const DATA = array
         (
