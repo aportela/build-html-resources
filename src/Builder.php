@@ -33,7 +33,7 @@
             $scripts = array();
             foreach($this->vendors as $vendor)
             {
-                if ($vendor->hasStyles())
+                if ($vendor->hasScripts())
                 {
                     $scripts = array_merge($scripts, $vendor->getScriptTags($minimized, $withIntegrityHash));
                 }
