@@ -7,7 +7,7 @@
         const DATA = array
         (
             "PROJECT_URL" => "https://lodash.com/",
-            "LAST_VERSION" => "3.4.9",
+            "LAST_VERSION" => "4.17.20",
             "HAS_STYLES" => false,
             "HAS_SCRIPTS" => true,
             "CSS_RESOURCES" => array(
