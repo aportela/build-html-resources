@@ -8,7 +8,7 @@
         (
             "PROJECT_URL" => "https://www.chartjs.org/",
             "LAST_VERSION" => "2.9.4",
-            "HAS_STYLES" => false,
+            "HAS_STYLES" => true,
             "HAS_SCRIPTS" => true,
             "CSS_RESOURCES" => array(
                 array(
